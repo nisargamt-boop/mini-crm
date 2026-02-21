@@ -160,8 +160,6 @@ Watch real-time metrics update as you manage leads
 ---
 
 ## 📁 Project Structure
-
-```
 mini-crm/
 ├── backend/
 │   ├── models/
@@ -192,8 +190,14 @@ mini-crm/
 │   ├── public/
 │   │   └── index.html
 │   └── package.json
+├── screenshots/
+│   ├── login.png
+│   ├── dashboard.png
+│   ├── leads.png
+│   ├── add-lead.png
+│   └── analytics.png
 └── README.md
-```
+
 
 ---
 
