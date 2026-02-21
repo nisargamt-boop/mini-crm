@@ -81,7 +81,7 @@ Before you begin, ensure you have installed:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/mini-crm.git
+git clone https://github.com/nisargamt-boop/mini-crm.git
 cd mini-crm
 ```
 
@@ -139,8 +139,8 @@ The app will open at `http://localhost:3000`
 ## 🚀 How to Use
 
 ### **1. Login**
-- Email: `admin@gmail.com`
-- Password: `123456`
+Register a new admin using /api/auth/register
+Then login using your created credentials.
 
 ### **2. Create a Lead**
 Fill in the "Add New Lead" form and click "Create Lead"
